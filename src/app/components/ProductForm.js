@@ -24,7 +24,7 @@ function ProductForm() {
         type : "POPUP_FORM",
         payload : !ProductForm
       })
-   
+
     }  
 
   return (
